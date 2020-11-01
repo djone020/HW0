@@ -10,3 +10,9 @@
 ***This is a sentence that displays bold and italic***
 
 This is a example `<addr>` inline code
+
+```
+{
+  this is an example of a fenced code block
+}
+```
